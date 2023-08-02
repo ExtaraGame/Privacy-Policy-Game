@@ -18,6 +18,7 @@ Links to privacy policies of third party service providers used in the app
 
 
 Google Play Services https://www.google.com/policies/privacy/
+
 Yandex ADS https://yandex.ru/legal/confidential/
 
 ### 2. Sharing Your Information  
