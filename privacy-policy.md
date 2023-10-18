@@ -85,6 +85,7 @@ actions.
 ### 7. Distribution  
 The only official channel for distribution of this app are:
 * Google Play Store https://play.google.com/
+* RuStore Store https://apps.rustore.ru/
 
 
 Any other mode of distribution is not official and thus, is not maintained by the developer.
